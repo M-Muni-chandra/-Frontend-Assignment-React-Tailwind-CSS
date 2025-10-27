@@ -6,7 +6,7 @@ It focuses on replicating the right-hand widgets from the Figma prototype: a tab
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live Project](https://your-vercel-link.vercel.app)
+🔗 [View Live Project](https://68ff0eedd22b69306f16032a--vocal-profiterole-6ffa43.netlify.app/)
 
 ---
 
